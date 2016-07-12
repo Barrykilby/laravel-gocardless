@@ -1,0 +1,18 @@
+{
+    "name": "breaktag/laravel-gocardless",
+    "description": "Laravel 5 wrapper for the GoCardless PHP API",
+    "require": {
+        "gocardless/gocardless-pro": "^0.9.3"
+    },
+    "authors": [
+        {
+            "name": "Ben Riley",
+            "email": "benr1804@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Breaktag\\GoCardless\\": "src/"
+        }
+    }
+}
