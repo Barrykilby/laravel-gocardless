@@ -9,4 +9,4 @@ return [
 	 * Environment (sandbox|live)
 	 */
 	'environment'  => 'sandbox'
-]
+];
